@@ -15,3 +15,13 @@ This repository was initially intended solely to store all files used during my 
 
 > [!WARNING]
 > _Use these files wisely. The owner of this repository is not responsible for any risks arising from the use of these files._
+
+## Reference & Credits
+
+R Core Team. (2025). *R: A language and environment for statistical computing*. R Foundation for Statistical Computing. https://www.R-project.org/
+
+Csárdi, G. (2025). *cli: Helpers for developing command line interfaces* (R package version 3.6.4). https://CRAN.R-project.org/package=cli
+
+Wickham, H. (2016). *ggplot2: Elegant graphics for data analysis*. Springer-Verlag New York. https://ggplot2.tidyverse.org
+
+Pedersen, T. L. (2024). *ggforce: Accelerating 'ggplot2'* (R package version 0.4.2). https://CRAN.R-project.org/package=ggforce
